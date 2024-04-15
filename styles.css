@@ -33,7 +33,7 @@ body, html {
   }
   
   .welcome-section {
-    background: url('background-image.png') no-repeat center center fixed;
+    background: url('assets/background-image.png') no-repeat center center fixed;
     background-size: cover;
     height: 100vh;
     display: flex;
@@ -83,7 +83,7 @@ body, html {
   }
 
   .calculator-section {
-    background: url('calculator-background.png') no-repeat center center fixed;
+    background: url('assets/calculator-background.png') no-repeat center center fixed;
     background-size: cover;
     padding: 40px;
     font-family: "Fredoka", sans-serif;
@@ -142,7 +142,7 @@ body, html {
   }
   
   .resources-section {
-    background: url('resources-background.png') no-repeat center center fixed;
+    background: url('assets/resources-background.png') no-repeat center center fixed;
     background-size: cover;
     padding: 40px;
     text-align: center;
