@@ -232,10 +232,12 @@ body, html {
       font-size: 20px;
       font-family: "Fredoka", sans-serif;
   }
-  .card-container {
+  .card-container, .card-container2 {
     display: flex;
-    flex-wrap: wrap;
-    justify-content: space-around;
+    justify-content: space-between;
+    margin-top: 10px;
+    margin-bottom: 10px;
+   
   }
   
   .card {
