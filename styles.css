@@ -285,7 +285,11 @@ body, html {
     font-size: 50px;
     font-family: "Fraunces", serif;
   }
-  
+  .about-section p {
+    color: white;
+    font-size: 20px;
+    font-family: "Fredoka", sans-serif;
+  }
   .team-member {
     display: inline-block;
     margin: 0 20px;
@@ -311,7 +315,16 @@ body, html {
     font-family: "Fredoka", sans-serif;
   }
 
-  
+  /* Style for GitHub link */
+.github-link {
+  color: #FFB91C; 
+  text-decoration: none; 
+}
+
+.github-link:hover {
+  text-decoration: underline;
+}
+
 footer {
     background-color: #163823;
     color: #fff;
